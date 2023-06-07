@@ -1,1 +1,2 @@
 THis is practice session of ITD git classes
+New session.
